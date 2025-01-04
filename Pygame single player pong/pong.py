@@ -1,3 +1,4 @@
+#You need to have pygame installed to run this!
 import pygame, sys, time
 
 #setup
