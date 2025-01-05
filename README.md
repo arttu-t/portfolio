@@ -1,2 +1,2 @@
 # portfolio
-Tänne on kerätty vanhat ohjelmointiprojektini
+Tänne on kerätty joitain vanhoja ohjelmointiprojektejani
